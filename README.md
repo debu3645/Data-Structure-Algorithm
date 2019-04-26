@@ -14,7 +14,12 @@ Part A
 8. https://practice.geeksforgeeks.org/problems/remove-vowels-from-string/0
 9. https://practice.geeksforgeeks.org/problems/change-the-string/0
 10. https://practice.geeksforgeeks.org/problems/check-string/0
+
+
 Part B
+
+
+
 1. https://practice.geeksforgeeks.org/problems/print-the-left-element/0
 2. https://practice.geeksforgeeks.org/problems/compete-the-skills/0
 3. https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted/0
